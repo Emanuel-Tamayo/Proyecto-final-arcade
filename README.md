@@ -2,7 +2,7 @@
 
 # 🎮 The Lucky Arcade — Slot Machine en Consola
 
- 📌 Descripción
+## 📌 Descripción
 
 Este proyecto consiste en el desarrollo de un **simulador de máquina tragamonedas (Slot Machine)** en **Java**, ejecutado completamente en consola.
 
